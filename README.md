@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Akshat318/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
