@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshat318/DSA/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
