@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Akshat318/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat318/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshat318/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Akshat318/DSA/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
