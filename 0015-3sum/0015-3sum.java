@@ -4,18 +4,7 @@ class Solution {
     List<List<Integer>> a = new ArrayList<>();
     Arrays.sort(nums);
     for(int i = 0 ; i<=nums.length -3;i++)
-    { /*  List<Integer> row = new ArrayList<>();
-            
-             if(nums[i]==0&&nums[i+1]==0&&nums[i+2]==0)
-             {
-                row.add(0);
-                 row.add(0);
-                  row.add(0);
-                  a.add(row);
-                   i=i+2;
-                   continue;
-                  
-             }*/
+    { 
         int l = i+1;
         int r = nums.length -1;
         if(i > 0&&nums[i]==nums[i-1] )
