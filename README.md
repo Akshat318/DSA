@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Akshat318/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akshat318/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akshat318/DSA/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat318/DSA/tree/master/0151-reverse-words-in-a-string) |
