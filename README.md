@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat318/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat318/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshat318/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat318/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat318/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
