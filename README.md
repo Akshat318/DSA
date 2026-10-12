@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshat318/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshat318/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Akshat318/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshat318/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Akshat318/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
 ## Math
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat318/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat318/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat318/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat318/DSA/tree/master/1021-remove-outermost-parentheses) |
