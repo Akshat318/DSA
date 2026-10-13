@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Akshat318/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshat318/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat318/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
@@ -158,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat318/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshat318/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 ## Enumeration
 |  |
 | ------- |
