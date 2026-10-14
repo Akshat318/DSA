@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akshat318/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Akshat318/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Akshat318/DSA/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akshat318/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Akshat318/DSA/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akshat318/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Akshat318/DSA/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
