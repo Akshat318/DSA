@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Akshat318/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat318/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshat318/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat318/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akshat318/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat318/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Akshat318/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat318/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
