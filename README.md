@@ -1,266 +1,29 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Akshat318/DSA/tree/master/0001-two-sum) |
-| [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/Akshat318/DSA/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
-| [0018-4sum](https://github.com/Akshat318/DSA/tree/master/0018-4sum) |
-| [0033-search-in-rotated-sorted-array](https://github.com/Akshat318/DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshat318/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Akshat318/DSA/tree/master/0035-search-insert-position) |
-| [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
-| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
-| [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
-| [0066-plus-one](https://github.com/Akshat318/DSA/tree/master/0066-plus-one) |
-| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshat318/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat318/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshat318/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-| [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat318/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Akshat318/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshat318/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Akshat318/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat318/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/Akshat318/DSA/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
-| [0018-4sum](https://github.com/Akshat318/DSA/tree/master/0018-4sum) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Akshat318/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0151-reverse-words-in-a-string](https://github.com/Akshat318/DSA/tree/master/0151-reverse-words-in-a-string) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Akshat318/DSA/tree/master/0015-3sum) |
-| [0016-3sum-closest](https://github.com/Akshat318/DSA/tree/master/0016-3sum-closest) |
-| [0018-4sum](https://github.com/Akshat318/DSA/tree/master/0018-4sum) |
-| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
-| [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
-| [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Akshat318/DSA/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/Akshat318/DSA/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/Akshat318/DSA/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
-| [0029-divide-two-integers](https://github.com/Akshat318/DSA/tree/master/0029-divide-two-integers) |
-| [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
-| [0050-powx-n](https://github.com/Akshat318/DSA/tree/master/0050-powx-n) |
-| [0066-plus-one](https://github.com/Akshat318/DSA/tree/master/0066-plus-one) |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-| [0231-power-of-two](https://github.com/Akshat318/DSA/tree/master/0231-power-of-two) |
-| [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/Akshat318/DSA/tree/master/0011-container-with-most-water) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Akshat318/DSA/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat318/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
-| [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
-| [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat318/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0023-merge-k-sorted-lists) |
-| [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
-| [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Akshat318/DSA/tree/master/0169-majority-element) |
-| [0229-majority-element-ii](https://github.com/Akshat318/DSA/tree/master/0229-majority-element-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/Akshat318/DSA/tree/master/0010-regular-expression-matching) |
-| [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
-| [0053-maximum-subarray](https://github.com/Akshat318/DSA/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat318/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshat318/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Akshat318/DSA/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshat318/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Akshat318/DSA/tree/master/0035-search-insert-position) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshat318/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshat318/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Akshat318/DSA/tree/master/0048-rotate-image) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshat318/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-| [2965-find-missing-and-repeated-values](https://github.com/Akshat318/DSA/tree/master/2965-find-missing-and-repeated-values) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0006-zigzag-conversion](https://github.com/Akshat318/DSA/tree/master/0006-zigzag-conversion) |
-| [0008-string-to-integer-atoi](https://github.com/Akshat318/DSA/tree/master/0008-string-to-integer-atoi) |
-| [0010-regular-expression-matching](https://github.com/Akshat318/DSA/tree/master/0010-regular-expression-matching) |
-| [0013-roman-to-integer](https://github.com/Akshat318/DSA/tree/master/0013-roman-to-integer) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat318/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
-| [0049-group-anagrams](https://github.com/Akshat318/DSA/tree/master/0049-group-anagrams) |
-| [0151-reverse-words-in-a-string](https://github.com/Akshat318/DSA/tree/master/0151-reverse-words-in-a-string) |
-| [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
-| [1021-remove-outermost-parentheses](https://github.com/Akshat318/DSA/tree/master/1021-remove-outermost-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat318/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Akshat318/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat318/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Akshat318/DSA/tree/master/0002-add-two-numbers) |
-| [0010-regular-expression-matching](https://github.com/Akshat318/DSA/tree/master/0010-regular-expression-matching) |
-| [0021-merge-two-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0021-merge-two-sorted-lists) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Akshat318/DSA/tree/master/0025-reverse-nodes-in-k-group) |
-| [0050-powx-n](https://github.com/Akshat318/DSA/tree/master/0050-powx-n) |
-| [0206-reverse-linked-list](https://github.com/Akshat318/DSA/tree/master/0206-reverse-linked-list) |
-| [0231-power-of-two](https://github.com/Akshat318/DSA/tree/master/0231-power-of-two) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
-| [0094-binary-tree-inorder-traversal](https://github.com/Akshat318/DSA/tree/master/0094-binary-tree-inorder-traversal) |
-| [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
-| [1021-remove-outermost-parentheses](https://github.com/Akshat318/DSA/tree/master/1021-remove-outermost-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat318/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
-| [0032-longest-valid-parentheses](https://github.com/Akshat318/DSA/tree/master/0032-longest-valid-parentheses) |
-| [0856-score-of-parentheses](https://github.com/Akshat318/DSA/tree/master/0856-score-of-parentheses) |
-| [1021-remove-outermost-parentheses](https://github.com/Akshat318/DSA/tree/master/1021-remove-outermost-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshat318/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akshat318/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Z Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat318/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Prefix Sum
-|  |
-| ------- |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat318/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-## Backtracking
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat318/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0022-generate-parentheses](https://github.com/Akshat318/DSA/tree/master/0022-generate-parentheses) |
-| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0029-divide-two-integers](https://github.com/Akshat318/DSA/tree/master/0029-divide-two-integers) |
-| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
-| [0231-power-of-two](https://github.com/Akshat318/DSA/tree/master/0231-power-of-two) |
-## Enumeration
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Akshat318/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat318/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Segment Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshat318/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-## Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Akshat318/DSA/tree/master/0094-binary-tree-inorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Akshat318/DSA/tree/master/0094-binary-tree-inorder-traversal) |
-## Binary Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Akshat318/DSA/tree/master/0094-binary-tree-inorder-traversal) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Akshat318/DSA/tree/master/0002-add-two-numbers) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Akshat318/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0021-merge-two-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0021-merge-two-sorted-lists) |
-| [0023-merge-k-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0023-merge-k-sorted-lists) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Akshat318/DSA/tree/master/0025-reverse-nodes-in-k-group) |
-| [0206-reverse-linked-list](https://github.com/Akshat318/DSA/tree/master/0206-reverse-linked-list) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Tournament Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Akshat318/DSA/tree/master/0023-merge-k-sorted-lists) |
-## Number Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-## Primality Test
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-## Sieve Theory
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-## Prime Number Sieve
-|  |
-| ------- |
-| [0204-count-primes](https://github.com/Akshat318/DSA/tree/master/0204-count-primes) |
-<!---LeetCode Topics End-->
+class Solution {
+    public int countPrimes(int n) {
+        if (n <= 2) {
+            return 0;
+        }
+
+        boolean[] isPrime = new boolean[n];
+        for (int i = 2; i < n; i++) {
+            isPrime[i] = true;
+        }
+
+       for (int i = 2; i * i < n; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j < n; j += i) {
+                    isPrime[j] = false;
+                }
+            }
+        }
+
+        int count = 0;
+        for (int i = 2; i < n; i++) {
+            if (isPrime[i]) {
+                count++;
+            }
+        }
+
+        return count;
+    }
+}
