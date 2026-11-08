@@ -33,6 +33,7 @@ class Solution {
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
@@ -67,4 +68,12 @@ class Solution {
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
