@@ -34,15 +34,18 @@ class Solution {
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -63,10 +66,12 @@ class Solution {
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
@@ -76,4 +81,5 @@ class Solution {
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
