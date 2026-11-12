@@ -47,6 +47,7 @@ class Solution {
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/Akshat318/DSA/tree/master/1922-count-good-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akshat318/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
@@ -89,4 +90,8 @@ class Solution {
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akshat318/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Akshat318/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
