@@ -116,4 +116,12 @@ class Solution {
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Akshat318/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akshat318/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akshat318/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
