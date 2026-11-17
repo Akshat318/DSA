@@ -1,0 +1,54 @@
+import java.util.*;
+
+class Solution {
+    public int minimumChanges(String s, int k) {
+        int n = s.length();
+        int INF = 1 << 29;
+        
+        int[][] g = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                g[i][j] = getMinChanges(s, i, j);
+            }
+        }
+        
+        int[][] dp = new int[n][k + 1];
+        for (int[] row : dp) {
+            Arrays.fill(row, INF);
+        }
+        
+        for (int i = 0; i < n; i++) {
+            dp[i][1] = g[0][i];
+            for (int j = 2; j <= k; j++) {
+                for (int h = 0; h < i; h++) {
+                    dp[i][j] = Math.min(dp[i][j], dp[h][j - 1] + g[h + 1][i]);
+                }
+            }
+        }
+        
+        return dp[n - 1][k];
+    }
+    
+    private int getMinChanges(String s, int left, int right) {
+        int len = right - left + 1;
+        int minChanges = 1 << 29;
+        
+        for (int d = 1; d < len; d++) {
+            if (len % d == 0) {
+                int changes = 0;
+                for (int offset = 0; offset < d; offset++) {
+                    int l = offset, r = len - d + offset;
+                    while (l < r) {
+                        if (s.charAt(left + l) != s.charAt(left + r)) {
+                            changes++;
+                        }
+                        l += d;
+                        r -= d;
+                    }
+                }
+                minChanges = Math.min(minChanges, changes);
+            }
+        }
+        return minChanges;
+    }
+}
