@@ -36,6 +36,7 @@ class Solution {
 | [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Akshat318/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Akshat318/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -79,6 +80,7 @@ class Solution {
 | ------- |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +93,7 @@ class Solution {
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akshat318/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
