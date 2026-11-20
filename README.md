@@ -34,6 +34,7 @@ class Solution {
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -43,6 +44,7 @@ class Solution {
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
@@ -128,4 +130,8 @@ class Solution {
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Akshat318/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
