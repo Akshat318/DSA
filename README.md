@@ -38,6 +38,7 @@ class Solution {
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Akshat318/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Akshat318/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Akshat318/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -46,6 +47,7 @@ class Solution {
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Akshat318/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -126,6 +128,7 @@ class Solution {
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Akshat318/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Akshat318/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Akshat318/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -134,4 +137,12 @@ class Solution {
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Akshat318/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Akshat318/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
