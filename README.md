@@ -36,6 +36,7 @@ class Solution {
 | [0078-subsets](https://github.com/Akshat318/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat318/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -48,6 +49,7 @@ class Solution {
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshat318/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat318/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Akshat318/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -71,6 +73,7 @@ class Solution {
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akshat318/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -85,6 +88,7 @@ class Solution {
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Akshat318/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akshat318/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Akshat318/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Backtracking
@@ -151,4 +155,20 @@ class Solution {
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Akshat318/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat318/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
